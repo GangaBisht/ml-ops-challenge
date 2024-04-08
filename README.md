@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fashion MNIST Classifier
 This project aims to classify fashion items from the Fashion MNIST dataset using a pre-trained MobileNetV2 model. It provides a FastAPI-based RESTful API for online inference and is containerized using Docker for easy deployment and scalability.
 
@@ -93,3 +94,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# ml-ops-challenge
+>>>>>>> origin/main
