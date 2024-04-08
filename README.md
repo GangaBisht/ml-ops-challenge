@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Fashion MNIST Classifier
 This project aims to classify fashion items from the Fashion MNIST dataset using a pre-trained MobileNetV2 model. It provides a FastAPI-based RESTful API for online inference and is containerized using Docker for easy deployment and scalability.
 
